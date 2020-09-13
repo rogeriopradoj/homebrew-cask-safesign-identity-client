@@ -4,7 +4,6 @@ cask "safesign-identity-client" do
 
   # github.com/rogeriopradoj/homebrew-cask-safesign-identity-client/ was verified as official when first introduced to the cask
   url "https://github.com/rogeriopradoj/homebrew-cask-safesign-identity-client/raw/master/vendor/aet__safesign-ic__3.5.3.0/SafeSign-IC-Standard-MacOS-3.5.3.0-AET.000-x86_64.app.dmg"
-
   name "SafeSign Identity Client"
   homepage "https://www.aeteurope.com/our-solutions/safesign-identity-client/"
 
